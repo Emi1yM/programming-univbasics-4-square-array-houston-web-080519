@@ -1,4 +1,4 @@
-def map_to_square(source_array)
+def square_array(source_array)
   new = []
   i = 0
   while i < source_array.length do
